@@ -1,2 +1,3 @@
 .git
 .ipynb_checkpoints
+word_vectors/*
